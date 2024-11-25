@@ -1,0 +1,49 @@
+    background-color: #f1c40f;
+
+    border: none;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+
+    margin-top: 20px;
+
+}
+
+
+button a {
+
+    text-decoration: none;
+
+    color: black;
+
+    font-weight: bold;
+
+}
+
+
+button:hover {
+
+    background-color: #e1b20f;
+
+}
+
+
+footer {
+
+    background-color: rgb(245, 240, 196); 
+
+    display: flex; 
+
+    justify-content: center; 
+
+    margin-top: 20px; 
+
+    width: 100%; 
+
+    font-family: Arial, sans-serif; 
+
+
+    text-align: center; 
+
+}
